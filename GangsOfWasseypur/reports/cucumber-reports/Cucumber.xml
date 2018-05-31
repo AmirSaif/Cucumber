@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="32.515884">
+<testcase classname="Login to flipkart and search for IPhoneX." name="Search for IPhoneX on flipkart." time="16.647935">
+<system-out><![CDATA[Given I am on "http://www.flipkart.com" site................................passed
+When I Enter "IPhoneX" in Search bar........................................passed
+Then I click on "Search"....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login to youtube and search for IPhoneX." name="Search for IPhoneX on youtube." time="15.867949">
+<system-out><![CDATA[Given I am on "https://www.youtube.com/" video site.........................passed
+When I Enter "IPhoneX" in Search............................................passed
+Then I click "Search".......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
